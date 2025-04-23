@@ -2,7 +2,7 @@
 # Stack
 ## PHP Golang (JS 💩)
 ### Linux 🫀
-### Composer NPM
+### Composer NPM Docker
 ### MySQL PostgreSQL
 ### Jira Scrum and other shit...
 
