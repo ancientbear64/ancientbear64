@@ -1,6 +1,6 @@
 🐻
 # Stack
-## PHP Golang (JS 💩)
+## PHP Python Golang (JS 💩)
 ### Linux 🫀
 ### Composer NPM Docker
 ### MySQL PostgreSQL
